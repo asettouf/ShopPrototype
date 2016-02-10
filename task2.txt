@@ -1,0 +1,1 @@
+Set up a salesforce org for a Library. The users should create records for the books, register library members and track which book is borrowed by which member. Please also set up a couple of dashboards and reports. Be creative.

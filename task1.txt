@@ -1,0 +1,10 @@
+, create for the scratch a an-page app. It should be shopping list app, where you can
+* add items to a list
+* remove item from a list
+* add a pice to an item
+* sort items by item
+* sort items by price
+* add tags to items
+* filter items by tag
+
+
